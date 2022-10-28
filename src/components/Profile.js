@@ -15,7 +15,14 @@ function Profile() {
         <div className='rounded-[30px] p-4 text-center w-96 my-6 bg-[#EAECF0]'>Background Check for Coders</div>
         <div className='rounded-[30px] p-4 text-center w-96 my-6 bg-[#EAECF0]'>Design Books</div>
     </div> 
+
+    
+    <div className='flex space-x-6 justify-center'>
+        <svg className='border'></svg>
+        <svg className='border'></svg>
     </div>
+    </div>
+
   )
 }
 
